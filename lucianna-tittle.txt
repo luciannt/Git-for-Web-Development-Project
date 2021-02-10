@@ -15,17 +15,29 @@ https://codepen.io/luciannt/pen/WNoGrVE?editors=1100
     7. What is an id? 
     -An id is an attribute that gives a unique id for a specific element.
     8. What elements can I add an id to? 
+    -Headers, paragraphs, anchors
     9. How many times can I use the same id on a page? 
+    -Only once.
     10. What is a class? 
+    -A class is an attribute that can be used to give a name to a group of objects or one singular object.
     11. What elements can I add a class to? 
+    -paragraphs, headers, sections, etc.
     12. How many times can I use the same class on a page? 
+    -There is no limit.
     13. How do I get my link to open in a new tab?
+    -
     14. What is the alt attribute in the image tag used for? 
+    -It adds text to an image; useful for visually impaired people, etc.
     15. How do I reference an id?
+    -It is referenced with a #.
     16. What is the difference between a section and a div
+    -A section is used for representing what part is a section of a page while a div is used for stylization and can be used for more than just a section of text.
     17. What is CSS used for? 
+    -CSS is used for stylizing webpages to make them more visually appealing.
     18. How to we select an element? Example - every h2 on the page
+    -Example h2 {}
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    A class is used to group together other objects while an id targets a specific element. A class may be used for a list, while an id might be used for a unique element.
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
