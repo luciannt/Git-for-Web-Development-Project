@@ -25,7 +25,7 @@ https://codepen.io/luciannt/pen/WNoGrVE?editors=1100
     12. How many times can I use the same class on a page? 
     -There is no limit.
     13. How do I get my link to open in a new tab?
-    -
+    -target="_blank"
     14. What is the alt attribute in the image tag used for? 
     -It adds text to an image; useful for visually impaired people, etc.
     15. How do I reference an id?
@@ -37,10 +37,13 @@ https://codepen.io/luciannt/pen/WNoGrVE?editors=1100
     18. How to we select an element? Example - every h2 on the page
     -Example h2 {}
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
-    A class is used to group together other objects while an id targets a specific element. A class may be used for a list, while an id might be used for a unique element.
+    -A class is used to group together other objects while an id targets a specific element. A class may be used for a list, while an id might be used for a unique element.
     20. How do we select classes in CSS?
+    -.class
     21. How do we select a p element with a single class of “human””?
+    -p.human
     22. What is a parent child selector? When would this be useful? 
+    -
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
