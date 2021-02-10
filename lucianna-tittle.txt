@@ -63,12 +63,19 @@ https://codepen.io/luciannt/pen/WNoGrVE?editors=1100
     31. How do I find out what file I am in, when I am using the command line? 
     -The file is shown above the command line.
     32. Using the command line - how do I see a list of files/folders in my current folder?
-    -
+    -ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    -rm. You have to be careful because it doesn't prompt you.
     34. Why should I use version control? 
+    -It allows multiple developers to access and work on your file and so you can add fixes and push out updates.
     35. How often should I commit to github?
+    -Whenever you make a substantial change.
     36. What is the command we would use to push our repo up to github? 
+    -git push
     37. Walk me through Lambda's git flow. 
+    -First you should fork the project so that you have your own copy. Next, you should copy the GitHub link to add into Git Bash. Then you should go to the file where you want to place the link in. Clone the link and
+    go into where you created the link. Then you should create a branch. You may then start working on your project. Whenever you get a substantial amount of work done, you should then comment and push your project to GitHub.
+    Then you should submit a pull request through GitHub, making sure that you're that your work is being uploaded to the original file that you forked. Finally, you should submit the pull request to Lambda without merging the pull request.
 
 Stretch Questions
 
